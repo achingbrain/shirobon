@@ -15,6 +15,6 @@ Colour vomit from [http://cssdeck.com/labs/particles-explosion-with-html5-canvas
 
 Fonts from:
 	
-	[http://www.google.com/fonts/#QuickUsePlace:quickUse/Family:Press+Start+2P](http://www.google.com/fonts/#QuickUsePlace:quickUse/Family:Press+Start+2P)
-	[http://mksd.jp/TypoBokan.html](http://mksd.jp/TypoBokan.html)
-	[http://mksd.jp/Hachipochi.html](http://mksd.jp/Hachipochi.html)
+[http://www.google.com/fonts/#QuickUsePlace:quickUse/Family:Press+Start+2P](http://www.google.com/fonts/#QuickUsePlace:quickUse/Family:Press+Start+2P)
+[http://mksd.jp/TypoBokan.html](http://mksd.jp/TypoBokan.html)
+[http://mksd.jp/Hachipochi.html](http://mksd.jp/Hachipochi.html)
